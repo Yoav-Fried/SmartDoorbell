@@ -7,13 +7,14 @@
 #define SerialMon Serial
 #define SerialAT Serial1
 
-const char MQTT_CLIENTID[] = __DATE__ __TIME__;
+/*
+  ----- Your WiFi connection credentials, if applicable -----
+*/
+const char wifiSSID[] = "";
+const char wifiPass[] = "";
 
-// Your WiFi connection credentials, if applicable
-// const char wifiSSID[] = "Best Wifi";
-// const char wifiPass[] = "2214101731";
-const char wifiSSID[] = "Jofa";
-const char wifiPass[] = "jofa1109";
+
+const char MQTT_CLIENTID[] = __DATE__ __TIME__;
 
 // MQTT details
 const char* broker = "192.168.1.108";
