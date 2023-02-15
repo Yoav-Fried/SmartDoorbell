@@ -17,6 +17,9 @@ const char wifiPass[] = "";
 const char MQTT_CLIENTID[] = __DATE__ __TIME__;
 
 // MQTT details
+/*
+  ----- Insert your local IP here -----
+*/
 const char* broker = "192.168.1.108";
 
 const char doorbellTopic[] = "doorbell";
