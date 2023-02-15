@@ -20,7 +20,7 @@ const char MQTT_CLIENTID[] = __DATE__ __TIME__;
 /*
   ----- Insert your local IP here -----
 */
-const char* broker = "192.168.1.108";
+const char* broker = "";
 
 const char doorbellTopic[] = "doorbell";
 
