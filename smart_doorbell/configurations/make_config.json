@@ -98,7 +98,7 @@
                                             "data": {
                                                 "editable": "undefined"
                                             },
-                                            "label": "Yoav"
+                                            "label": "<DEVICE_NAME_1>"
                                         }
                                     }
                                 },
@@ -209,7 +209,7 @@
                                             "data": {
                                                 "editable": "undefined"
                                             },
-                                            "label": "Zuzut"
+                                            "label": "<DEVICE_NAME_2>"
                                         }
                                     }
                                 },
