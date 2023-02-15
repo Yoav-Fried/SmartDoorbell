@@ -14,4 +14,4 @@ Feel free to reach out regarding any setup issues.
 
 - Design:
 
-![image](https://user-images.githubusercontent.com/47736688/219035069-d365b974-b9f9-4a39-92b2-2303bc53ace2.png)
+![image](![image](https://user-images.githubusercontent.com/47736688/219101678-86bf89f9-d62c-46f1-9069-3545784585d7.png))
