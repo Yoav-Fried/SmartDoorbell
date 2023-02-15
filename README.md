@@ -1,10 +1,18 @@
 # SmartDoorbell
 A fun IoT project! 
+
+
+
+Please make sure you properly configure Make, Node-Red, and Arduino.
+Make sure you edit the relevant authentication for WiFi connection via SmartDoorbell/smart_doorbell/MqttServer.h Lines 13-14
+
+
+
+
+
+
 Demonstration and relevant info for this project can be found here - <<LINK>>.
 Feel free to reach out regarding any setup issues.
-
-
-
 
 - Design:
 
