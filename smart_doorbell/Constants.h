@@ -1,0 +1,9 @@
+#include <Adafruit_CircuitPlayground.h>
+#include <map>
+#include <iostream>
+#include <string>
+#include <math.h>
+#include <FastLED.h>
+#include "Letters.h"
+#include "Users.h"
+#include "MqttServer.h"

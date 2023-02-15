@@ -1,0 +1,50 @@
+[
+    {
+        "id": "d65eb34cbbc5635b",
+        "type": "mqtt in",
+        "z": "b094e4572e52e215",
+        "name": "",
+        "topic": "doorbell",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "8ba45457788e22a9",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 270,
+        "y": 180,
+        "wires": [
+            [
+                "502dd855519517a0"
+            ]
+        ]
+    },
+    {
+        "id": "8ba45457788e22a9",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "400",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    }
+]
