@@ -46,7 +46,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "{\"name\":\"Michal\",\"link\":\"http://bit.ly/3Xp6qJz\"}",
+        "payload": "{\"name\":\"Name\",\"Google.com\"}",
         "payloadType": "json",
         "x": 50,
         "y": 220,
