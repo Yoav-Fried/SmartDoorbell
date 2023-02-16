@@ -1,5 +1,6 @@
 # SmartDoorbell
-A fun IoT project! 
+
+A fun IoT project by Yoav Fried and Tal Zuzut! 
 
 
 
@@ -12,7 +13,7 @@ Please make sure you properly configure Make, Node-Red, and Arduino.
 Demonstration and relevant info for this project can be found at https://www.instructables.com/DIY-IoT-Smart-Doorbell/.
 
 
-- Design:
+- Abstract Design:
 
 ![image](https://user-images.githubusercontent.com/47736688/219101678-86bf89f9-d62c-46f1-9069-3545784585d7.png)
 
