@@ -23,4 +23,4 @@ Demonstration and relevant info for this project can be found at https://www.ins
 
 
 
-Feel free to reach out regarding any setup issues.
+Feel free to reach out regarding any issues in the setup process.
