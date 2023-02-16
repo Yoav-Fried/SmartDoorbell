@@ -9,7 +9,7 @@ Please make sure you properly configure Make, Node-Red, and Arduino.
 
 - Editing the users\link map via [SmartDoorbell/smart_doorbell/Users.h](https://github.com/Yoav-Fried/SmartDoorbell/blob/605b849dd503aacdb165df565ee1e337b808df01/smart_doorbell/Users.h#L7)
 
-Demonstration and relevant info for this project can be found here - <<LINK>>.
+Demonstration and relevant info for this project can be found [here](https://www.instructables.com/DIY-IoT-Smart-Doorbell/).
 Feel free to reach out regarding any setup issues.
 
 - Design:
