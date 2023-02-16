@@ -14,6 +14,7 @@ const char wifiSSID[] = "";
 const char wifiPass[] = "";
 
 
+
 const char MQTT_CLIENTID[] = __DATE__ __TIME__;
 
 // MQTT details
